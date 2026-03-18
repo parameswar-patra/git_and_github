@@ -1,0 +1,16 @@
+SSH Method
+(Profile icon → Settings → SSH and GPG keys → New SSH key)
+_____________________________________________________________________________________________________________
+HTTPS + (PAT)Personal Access Token
+(Profile icon → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token → Generate new token(classic))
+ex:- git remote add origin https://<github-username>:<PAT>@github.com/<github-username>/<repository-name>.git
+_____________________________________________________________________________________________________________
+Fork
+_____________________________________________________________________________________________________________
+Commit Divergence (git pull --rebase/git pull --rebase origin main)
+_____________________________________________________________________________________________________________
+Compare & Pull Request
+_____________________________________________________________________________________________________________
+Merge Conflict
+_____________________________________________________________________________________________________________
+.gitignore
