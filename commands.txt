@@ -50,9 +50,9 @@ git reset HEAD~1 --soft/git reset HEAD^ --soft
 git reset HEAD~1/git reset HEAD^
 git reset HEAD~1 --hard/git reset HEAD^ --hard
 
-git reset <commit hash>  --soft
+git reset <commit hash> --soft
 git reset <commit hash>
-git reset <commit hash>  --hard
+git reset <commit hash> --hard
 ____________________________________________________________________________________________________________________________________________________________
 git status(untracked, modified, staged, unmodified)
 git log/git log --oneline
